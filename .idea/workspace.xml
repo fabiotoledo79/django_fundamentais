@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a1bd0249-85f5-4db6-804f-960f2a13941a" name="Default Changelist" comment="" />
+    <list default="true" id="a1bd0249-85f5-4db6-804f-960f2a13941a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/contas/templates/contas/form.html" beforeDir="false" afterPath="$PROJECT_DIR$/contas/templates/contas/form.html" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,13 +34,13 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="649" />
+          <entry key="html" value="685" />
           <entry key="py" value="1346" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="649" />
+          <entry key="HTML" value="685" />
           <entry key="Python" value="1346" />
         </counts>
       </usages-collector>
@@ -71,8 +73,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/contas/templates/contas/form.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="72" selection-start-line="16" selection-start-column="72" selection-end-line="16" selection-end-column="72" />
+            <state relative-caret-position="255">
+              <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -129,6 +131,9 @@
       <find>transacao</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -139,8 +144,8 @@
         <option value="$PROJECT_DIR$/contas/form.py" />
         <option value="$PROJECT_DIR$/contas/templates/contas/listagem.html" />
         <option value="$PROJECT_DIR$/controle_gastos/urls.py" />
-        <option value="$PROJECT_DIR$/contas/templates/contas/form.html" />
         <option value="$PROJECT_DIR$/contas/views.py" />
+        <option value="$PROJECT_DIR$/contas/templates/contas/form.html" />
       </list>
     </option>
   </component>
@@ -149,6 +154,7 @@
     <option name="width" value="1280" />
     <option name="height" value="709" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -222,6 +228,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="709" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2494043" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -321,8 +328,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/contas/templates/contas/form.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="72" selection-start-line="16" selection-start-column="72" selection-end-line="16" selection-end-column="72" />
+        <state relative-caret-position="255">
+          <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
         </state>
       </provider>
     </entry>
